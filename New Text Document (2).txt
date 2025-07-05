@@ -195,7 +195,7 @@
             <i class="fas fa-lock"></i>
         </div>
         <h1>AI Access Portal</h1>
-        <p>Enter the password to continue to Perplexity.ai</p>
+        <p>Enter the password to continue to Secret Ai</p>
         
         <input type="password" id="password" placeholder="Enter password" autofocus>
         <button id="submit">Continue</button>
